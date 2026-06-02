@@ -156,6 +156,7 @@ This project demonstrates how **classical statistical learning models can be ope
 **Daniel Oluwafemi Olofin**  
 Computational Biostatistics • Machine Learning in Healthcare • Clinical Data Science  
 
+- Live deployment: https://olofin98.github.io/HealthCostML-Shiny/
 - GitHub: https://github.com/Olofin98  
 - Portfolio: https://olofin98.github.io/Daniel.github.io  
 
